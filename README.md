@@ -14,32 +14,27 @@
 
 ---
 
-## 👨‍💻 About Me
+## � About Me
 
-- ⚙️ **Backend-focused developer passionate about server-side systems**
-- 🚀 Building projects involving **APIs, authentication, and database systems**
-- 🧠 Interested in **backend architecture, data modeling, and scalable services**
-- 🌱 Currently improving skills in **Node.js, Express, and database systems**
-- 📚 Exploring how production applications handle **transactions, performance, and scalability**
+- 🚀 **Backend Developer** focused on building **server-side systems and APIs**
+- ⚙️ Strong interest in **Node.js, Express, and database-driven applications**
+- 🧠 Passionate about **backend architecture, transactions, and scalable services**
+- �️ Focused on writing **clean, maintainable backend code**
+- 📚 Constantly learning how real-world systems manage **data, performance, and scalability**
+- 🌱 Currently exploring **backend system design and database architecture**
 
 ---
 
-## 🛠️ Backend Tech Stack
+## � Tech Stack & Concepts
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,js,ts,mongodb,mysql,postgres,git,github,vscode,docker,postman" />
 </p>
 
----
-
-## 🧠 Backend Concepts I Work With
-
-- **REST API development**
-- **Authentication & authorization**
-- **Database design and relations**
-- **Backend architecture and project structure**
-- **Transaction handling and data consistency**
-- **API testing and debugging**
+- **⚙️ Backend & Languages:** Node.js • Express • JavaScript • TypeScript • Python
+- **🗄️ Databases:** MongoDB • MySQL • PostgreSQL
+- **🛠️ Tools & DevOps:** Git • GitHub • Docker • Postman • VS Code
+- **🧠 Backend Concepts:** REST APIs • Authentication • Database Design • Transactions • API Testing
 
 ---
 
@@ -57,21 +52,24 @@
 
 ### 📊 Backend-Ledger
 
-Backend ledger system designed to manage transactions and financial records.
-**Features:**
+Backend system designed for **ledger and transaction management**.
 
-- Backend business logic & transaction handling
-- Data storage architecture
-- Structured API-style backend design
+**Key features:**
+
+- Transaction handling
+- Backend business logic
+- Structured API-style architecture
+- Data storage and management
 
 ### 🎵 POST_MUSIC
 
-Backend-supported application where users can post and manage music content.
-**Features:**
+Backend-supported application where users can **post and manage music content**.
 
-- Server-side logic for content management
-- Data handling for user-generated posts
-- API-based architecture
+**Key features:**
+
+- Server-side content management
+- Database handling for user posts
+- Backend application architecture
 
 ---
 
@@ -89,6 +87,14 @@ Backend-supported application where users can post and manage music content.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilyadhuvansi&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
+
+---
+
+## 🔝 Top Contributed Repo
+
+### [Backend-Ledger](https://github.com/Sahilyadhuvansi/Backend-Ledger)
+
+My primary backend system demonstrating ledger management and API design.
 
 ---
 
