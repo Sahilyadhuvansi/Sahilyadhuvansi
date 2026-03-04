@@ -5,13 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer;Server-Side+Systems;APIs+%26+Databases;Always+Building+%26+Learning" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sahilyadhuvansi&theme=tokyonight&margin-w=15&row=1&column=6&no-frame=true&no-bg=true" alt="Sahilyadhuvansi Trophies" />
-  </a>
-</p>
-
 ---
 
 ## � About Me
