@@ -40,16 +40,6 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <!-- Auto-generated project cards -->
-  <a href="https://github.com/Sahilyadhuvansi/Backend-Ledger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilyadhuvansi&repo=Backend-Ledger&theme=tokyonight&show_icons=true&hide_border=true" />
-  </a>
-  <a href="https://github.com/Sahilyadhuvansi/POST_MUSIC">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sahilyadhuvansi&repo=POST_MUSIC&theme=tokyonight&show_icons=true&hide_border=true" />
-  </a>
-</p>
-
 ### 📊 Backend-Ledger
 
 Backend system designed for **ledger and transaction management**.
@@ -80,12 +70,7 @@ Backend-supported application where users can **post and manage music content**.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahilyadhuvansi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=Sahilyadhuvansi&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahilyadhuvansi&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
