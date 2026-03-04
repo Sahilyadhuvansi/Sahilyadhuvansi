@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Backend+Systems+Enthusiast;Scalable+APIs+%26+Databases;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Backend+Developer;Server-Side+Systems;APIs+%26+Databases;Always+Building+%26+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
-- ⚙️ **Passionate about Backend Development & System Architecture**
-- 🚀 Building scalable backend systems and experimenting with complex server-side logic
-- 🌱 Currently improving my skills in **Node.js, Express, and Database Management**
-- 🧠 Deeply interested in **RESTful APIs, Authentication, Data Modeling, and Transactions**
-- 📚 Continuously learning how real-world applications manage data and scalability
+- ⚙️ **Backend-focused developer passionate about server-side systems**
+- 🚀 Building projects involving **APIs, authentication, and database systems**
+- 🧠 Interested in **backend architecture, data modeling, and scalable services**
+- 🌱 Currently improving skills in **Node.js, Express, and database systems**
+- 📚 Exploring how production applications handle **transactions, performance, and scalability**
 
 ---
 
@@ -32,7 +32,18 @@
 
 ---
 
-## 🚀 Featured Backend Projects
+## 🧠 Backend Concepts I Work With
+
+- **REST API development**
+- **Authentication & authorization**
+- **Database design and relations**
+- **Backend architecture and project structure**
+- **Transaction handling and data consistency**
+- **API testing and debugging**
+
+---
+
+## 🚀 Featured Projects
 
 <p align="center">
   <!-- Auto-generated project cards -->
@@ -44,10 +55,23 @@
   </a>
 </p>
 
-**Key Backend Concepts I Apply in My Projects:**
+### 📊 Backend-Ledger
 
-- **Backend-Ledger:** Ledger transaction handling, data storage management, backend business logic, API-style architecture.
-- **POST_MUSIC:** Server-side application structure, authentication, database handling for user posts and music content management.
+Backend ledger system designed to manage transactions and financial records.
+**Features:**
+
+- Backend business logic & transaction handling
+- Data storage architecture
+- Structured API-style backend design
+
+### 🎵 POST_MUSIC
+
+Backend-supported application where users can post and manage music content.
+**Features:**
+
+- Server-side logic for content management
+- Data handling for user-generated posts
+- API-based architecture
 
 ---
 
