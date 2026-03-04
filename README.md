@@ -92,7 +92,7 @@ My primary backend system demonstrating ledger management and API design.
 
 <p align="center">
   <a href="https://github.com/Sahilyadhuvansi">
-    <img src="https://img.shields.io/github/followers/Sahilyadhuvansi?label=Follow%20Me&style=social" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/Follow_@Sahilyadhuvansi-white?style=social&logo=github" alt="GitHub Profile" />
   </a>
 </p>
 
