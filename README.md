@@ -12,7 +12,7 @@
 - 🚀 **AI & Backend Developer** building **production-grade server-side systems**
 - ⚡ Expert in **Groq-powered AI integration** for near-instant inference and localized intelligence
 - ⚙️ Specialist in **Node.js, Express, MongoDB** and **real-world API architecture**
-- 🔐 experienced with **JWT authentication, token blacklisting, and security best practices**
+- 🔐 **Experienced** with **JWT authentication, token blacklisting, and security best practices**
 - 💳 Built a **double-entry ledger system** with ACID-compliant transactions and **AI Fraud Detection**
 - 🎵 Built a **full-stack social music platform** with **AI content moderation** and recommendations
 - 🌐 Comfortable deploying to **Vercel** and **Render** with production-ready configurations
@@ -86,15 +86,32 @@
 
 ## 🧠 Core Engineering Concepts
 
-```
-✅ AI & LLM Integration         ✅ JWT Auth & Token Lifecycle
-✅ Groq LPU Optimization        ✅ Double-Entry Ledger Patterns
-✅ OCR & Data Extraction        ✅ ACID-Compliant Transactions
-✅ Idempotency & Safety         ✅ Rate Limiting & Security Hardening
-✅ Real-time (Socket.io)        ✅ Modular MVC Architecture
-✅ MongoDB Aggregations         ✅ Production Deployment
-✅ Persistent UI State          ✅ Automated Content Moderation
-```
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <ul>
+        <li>✅ AI & LLM Integration</li>
+        <li>✅ Groq LPU Optimization</li>
+        <li>✅ OCR & Data Extraction</li>
+        <li>✅ Idempotency & Safety</li>
+        <li>✅ Real-time (Socket.io)</li>
+        <li>✅ MongoDB Aggregations</li>
+        <li>✅ Persistent UI State</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <ul>
+        <li>✅ JWT Auth & Token Lifecycle</li>
+        <li>✅ Double-Entry Ledger Patterns</li>
+        <li>✅ ACID-Compliant Transactions</li>
+        <li>✅ Rate Limiting & Security Hardening</li>
+        <li>✅ Modular MVC Architecture</li>
+        <li>✅ Production Deployment</li>
+        <li>✅ Automated Content Moderation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
