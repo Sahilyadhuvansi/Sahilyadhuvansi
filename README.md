@@ -23,17 +23,9 @@
 ## 🛠️ Tech Stack & AI Capability
 
 <p align="center">
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
-  <a href="https://groq.com/"><img src="https://img.shields.io/badge/Groq-f3d122?style=for-the-badge&logo=ai&logoColor=black" alt="Groq" height="48"/></a>
-  <a href="https://openai.com/"><img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
-  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,python,mongodb,postgres,mysql,git,github,docker,postman,vscode" alt="My Tech Stack" />
+  <img src="https://cdn.simpleicons.org/openai/white" height="50" alt="OpenAI" />
+  <img src="https://cdn.simpleicons.org/groq/white" height="50" alt="Groq" />
 </p>
 
 | Category | Technologies & Capabilities |
