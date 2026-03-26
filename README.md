@@ -23,8 +23,7 @@
 ## 🛠️ Tech Stack & AI Capability
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,python,openai,mongodb,postgres,mysql,git,github,docker,postman,vscode" alt="My Tech Stack" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/groq.svg" height="50" alt="Groq" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,python,mongodb,postgres,mysql,git,github,docker,postman,vscode" alt="My Tech Stack" />
 </p>
 
 | Category | Technologies & Capabilities |
