@@ -92,7 +92,7 @@
 
 ## 🧠 Backend Concepts I Apply
 
-```✅ RESTful API Design              ✅ Modular MVC Architecture
+```✅ RESTful API Design                  ✅ Modular MVC Architecture
 
 ✅ JWT Authentication & Token Lifecycle   ✅ Token Blacklisting (Logout Handling)
 ✅ Idempotency Keys & Request Safety      ✅ ACID-Compliant Transactions
@@ -100,13 +100,13 @@
 
 ✅ Rate Limiting & Security Hardening     ✅ Error Handling Middleware
 
-✅ MongoDB Aggregations            ✅ Pagination & Infinite Scroll
+✅ MongoDB Aggregations                   ✅ Pagination & Infinite Scroll
 
-✅ File Upload Pipelines           ✅ OCR & Data Extraction
+✅ File Upload Pipelines                  ✅ OCR & Data Extraction
 
 ✅ Real-time Systems (Socket.io)
 
-✅ AI & LLM Integration            ✅ Automated Content Moderation
+✅ AI & LLM Integration                   ✅ Automated Content Moderation
 
 ✅ Production Deployment & DevOps Basics
 ```
