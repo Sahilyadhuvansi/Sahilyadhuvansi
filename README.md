@@ -23,25 +23,10 @@
 ## 🛠️ Tech Stack & AI Capability
 
 <p align="center">
-  <!-- Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
-  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
-  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
-
-  <!-- Backend -->
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
-  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
-
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
-
-  <!-- Tools -->
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
+  <img 
+    src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,python,mongodb,postgres,git,github,docker" 
+    alt="Tech Stack"
+  />
 </p>
 
 | Category           | Technologies & Capabilities                                                    |
