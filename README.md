@@ -23,24 +23,42 @@
 ## 🛠️ Tech Stack & AI Capability
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nodejs,express,python,mongodb,postgres,mysql,git,github,docker,postman,vscode" alt="My Tech Stack" />
+  <!-- Frontend -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://vitejs.dev/"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" /></a>
+
+  <!-- Backend -->
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python" /></a>
+
+  <!-- Databases -->
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+
+  <!-- Tools -->
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 </p>
 
-| Category | Technologies & Capabilities |
-|----------|-------------|
-| **AI Integration** | **Groq LPU** • OpenAI SDK • Financial AI Models • OCR & Document Intelligence |
-| **Backend** | Node.js • Express.js • REST APIs • Socket.io • Modular MVC |
-| **Security** | JWT • Token Blacklisting • bcrypt • Rate Limiting • Helmet • CORS Whitelisting |
-| **Databases** | MongoDB (ACID Sessions) • PostgreSQL • MySQL • Redis (for LPU caching) |
-| **Transactions** | Double-Entry Ledger • Idempotency Keys • Atomic Rollbacks |
-| **File Storage** | ImageKit (upload/delete/auth) • Multer • AI-driven Metadata Extraction |
-| **Frontend** | React • Vite • Tailwind CSS • Context API • Persistent Audio Players |
+| Category           | Technologies & Capabilities                                                    |
+| ------------------ | ------------------------------------------------------------------------------ |
+| **AI Integration** | **Groq LPU** • OpenAI SDK • Financial AI Models • OCR & Document Intelligence  |
+| **Backend**        | Node.js • Express.js • REST APIs • Socket.io • Modular MVC                     |
+| **Security**       | JWT • Token Blacklisting • bcrypt • Rate Limiting • Helmet • CORS Whitelisting |
+| **Databases**      | MongoDB (ACID Sessions) • PostgreSQL • MySQL • Redis (for LPU caching)         |
+| **Transactions**   | Double-Entry Ledger • Idempotency Keys • Atomic Rollbacks                      |
+| **File Storage**   | ImageKit (upload/delete/auth) • Multer • AI-driven Metadata Extraction         |
+| **Frontend**       | React • Vite • Tailwind CSS • Context API • Persistent Audio Players           |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📊 [Backend-Ledger](https://github.com/Sahilyadhuvansi/Backend-Ledger) — *AI-Native Financial Suite*
+### 📊 [Backend-Ledger](https://github.com/Sahilyadhuvansi/Backend-Ledger) — _AI-Native Financial Suite_
 
 > A professional ledger system evolved into an AI-powered financial platform. Deployed live at [mini-bank-beta.vercel.app](https://mini-bank-beta.vercel.app)
 
@@ -57,7 +75,7 @@
 
 ---
 
-### 🎵 [POST_MUSIC](https://github.com/Sahilyadhuvansi/POST_MUSIC) — *AI-Driven Social Music Platform*
+### 🎵 [POST_MUSIC](https://github.com/Sahilyadhuvansi/POST_MUSIC) — _AI-Driven Social Music Platform_
 
 > A full-stack social platform featuring a high-performance **Professional AI Social Engine**.
 
@@ -74,34 +92,26 @@
 
 ---
 
-## 🧠 Core Engineering Concepts
+## 🧠 Backend Concepts I Apply
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <ul>
-        <li>✅ AI & LLM Integration</li>
-        <li>✅ Groq LPU Optimization</li>
-        <li>✅ OCR & Data Extraction</li>
-        <li>✅ Idempotency & Safety</li>
-        <li>✅ Real-time (Socket.io)</li>
-        <li>✅ MongoDB Aggregations</li>
-        <li>✅ Persistent UI State</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <ul>
-        <li>✅ JWT Auth & Token Lifecycle</li>
-        <li>✅ Double-Entry Ledger Patterns</li>
-        <li>✅ ACID-Compliant Transactions</li>
-        <li>✅ Rate Limiting & Security Hardening</li>
-        <li>✅ Modular MVC Architecture</li>
-        <li>✅ Production Deployment</li>
-        <li>✅ Automated Content Moderation</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+```✅ RESTful API Design              ✅ Modular MVC Architecture
+
+✅ JWT Authentication & Token Lifecycle   ✅ Token Blacklisting (Logout Handling)
+✅ Idempotency Keys & Request Safety      ✅ ACID-Compliant Transactions
+✅ Double-Entry Ledger Systems
+
+✅ Rate Limiting & Security Hardening     ✅ Error Handling Middleware
+
+✅ MongoDB Aggregations            ✅ Pagination & Infinite Scroll
+
+✅ File Upload Pipelines           ✅ OCR & Data Extraction
+
+✅ Real-time Systems (Socket.io)
+
+✅ AI & LLM Integration            ✅ Automated Content Moderation
+
+✅ Production Deployment & DevOps Basics
+```
 
 ---
 
